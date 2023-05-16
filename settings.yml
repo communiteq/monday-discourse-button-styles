@@ -1,10 +1,10 @@
 global_button_border_radius: 
   type: string
-  default: 0
+  default: 39px
   description: 'Example: 10% or 10px'
 
 basic_button_bg:
-  default: ''
+  default: '#6161FF'
   description: 'Note: Styling basic buttons will override primary buttons, so you may want to apply primary button styles below as well. Example: #FF0000 or red. '
 
 basic_button_bg_hover:
@@ -12,7 +12,7 @@ basic_button_bg_hover:
   description: 'Example: #FF0000 or red'
 
 basic_button_text:
-  default: ''
+  default: '#FFFFFF'
   description: 'Example: #FF0000 or red'
 
 basic_button_text_hover:
@@ -28,7 +28,7 @@ primary_button_bg_hover:
   description: 'Example: #FF0000 or red'
 
 primary_button_text:
-  default: ''
+  default: '#6161FF'
   description: 'Example: #FF0000 or red'
 
 primary_button_text_hover:
@@ -52,19 +52,19 @@ header_bg_hover:
   description: 'Example: #FF0000 or red'
 
 nav_pill_text:
-  default: ''
+  default: '#545767'
   description: 'Note: Main topic list nav buttons. Example: #FF0000 or red. '
 
 nav_pill_text_hover:
-  default: ''
+  default: '#FFFFFF'
   description: 'Example: #FF0000 or red'
 
 nav_pill_bg_hover:
-  default: ''
+  default: '#6161FF'
   description: 'Example: #FF0000 or red'
 
 nav_pill_bg_active:
-  default: ''
+  default: '#6161FF'
   description: 'Example: #FF0000 or red'
 
 nav_pill_text_active:
